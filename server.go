@@ -1,8 +1,8 @@
 package main
 
 import (
-	"RPC_TEST/shared"
 	"fmt"
+	"github.com/tangzhuang-thy/RPC_TEST/shared"
 	"net"
 	"net/rpc"
 )
